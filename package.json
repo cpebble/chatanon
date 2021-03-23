@@ -1,0 +1,22 @@
+{
+  "name": "chatanon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpebble/chatanon.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cpebble/chatanon/issues"
+  },
+  "homepage": "https://github.com/cpebble/chatanon#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
